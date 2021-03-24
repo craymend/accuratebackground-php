@@ -1,0 +1,25 @@
+{
+    "name": "craymend/accuratebackground-php",
+    "description": "Php SDK for Accurate background checks API",
+    "authors": [
+        {
+            "name": "Cray Mend",
+            "email": "craymend1@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4" : {
+            "Craymend\\AccurateSdk\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Craymend\\AccurateSdk\\AccurateSdkServiceProvider"
+            ]
+        }
+    }
+}
