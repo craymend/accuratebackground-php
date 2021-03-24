@@ -28,7 +28,7 @@ Run
 
     artisan vendor:publish
 
-Now in your .env file, define your Tokeet credentials:
+Now in your .env file, define your Accurate credentials:
 ```php
 ACCURATE_API_CLIENT_ID=<your Accurate API client id>
 ACCURATE_API_SECRET=<your Accurate API secret>
