@@ -1,4 +1,4 @@
-# Tokeet Caching
+# Accurate Background Checks API PHP SDK
 
 [![Software License][ico-license]](LICENSE)
 
