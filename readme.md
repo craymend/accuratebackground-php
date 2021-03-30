@@ -10,18 +10,7 @@ Query Accurate API for Candidates and Orders
 Via composer.<br/>
 Add the following to your composer.json
 ```
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/craymend/accuratebackground-php.git"
-    }
-],
-"require": {
-    "craymend/accuratebackground-php": "dev-master"
-},
-```
-```
-composer update
+composer require craymend/accuratebackground-php
 ```
 
 Run 
