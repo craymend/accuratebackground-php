@@ -21,5 +21,6 @@
                 "Craymend\\AccurateSdk\\AccurateSdkServiceProvider"
             ]
         }
-    }
+    },
+    "license": "MIT"
 }
