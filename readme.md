@@ -1,4 +1,4 @@
-# Accurate Background Checks API Laravel SDK
+# Accurate Background Checks API SDK For Laravel 
 
 [![Software License][ico-license]](LICENSE)
 
