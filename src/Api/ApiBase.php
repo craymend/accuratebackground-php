@@ -17,7 +17,9 @@ class ApiBase
     }
 
     /**
-     * The Alive resource is a simple 'ping’ API call to connect to the platform for testing purposes. Alive can be called without basic auth.
+     * The Alive resource is a simple 'ping’ API call to connect to 
+     *   the platform for testing purposes. 
+     *   Alive can be called without basic auth.
      * 
      * @return stdObject
      */
