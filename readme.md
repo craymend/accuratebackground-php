@@ -8,7 +8,6 @@ Query Accurate API for Candidates and Orders
 ## Installation
 
 Via composer.<br/>
-Add the following to your composer.json
 ```
 composer require craymend/accuratebackground-php
 ```
